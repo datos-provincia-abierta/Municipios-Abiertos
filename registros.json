@@ -2,13 +2,13 @@
  {
    "id": 1,
    "municipio": "Olavarría",
-   "tema": "Participacion Ciudadana",
-   "tipo": "Transparencia Activa",
+   "tema": "Datos Abiertos",
+   "tipo": "Datos Abiertos",
    "area": "Subsecretaría de Modernización, Planificacón y Transparencia",
    "titulo": "Plan de Apertura de Datos",
    "bajada": "1° Plan de Apertura de Datos de Olavarría en el que participaron más de 100 representantes de 30 instituciones.",
    "texto": "Considerando que la comunidad de Olavarría cuenta -por primera vez en la historia- con un espacio en línea donde el Municipio publica de manera proactiva datos e información de la gestión, entendimos que era necesario contar con el involucramiento y participación de actores intermedios de la sociedad, que a diario cumplen roles fundamentales en el uso y generación de datos e información dentro de los distintos ámbitos sociales del Partido para poder dar sostenibilidad al proceso de apertura de la información, no solo a nivel Municipio sino para contribuir en la consolidación -en el mediano a largo plazo- de una nueva idiosincrasia en nuestra comunidad. Por este motivo, durante el mes de Junio pasado (2018) propusimos a la comunidad olavarriense sumarse a lo que denominamos el 1° Plan de Apertura de Datos de Olavarría. Dicho Plan inició con un evento con importantísima convocatoria donde participaron más de 100 representantes de 30 instituciones de todo el Partido, y donde el Municipio junto a estos actores intermedios suscribieron a un acuerdo común dejando de manifiesto que todas las partes tenemos como interés común velar por la continuidad de las políticas de apertura de datos e información en el Partido de Olavarría.<br>Durante este encuentro elaboramos un total de 36 compromisos de apertura de datos (divididos en 6 categorías de temas de interés general) y asumimos la tarea -desde el Municipio- de liderar este trabajo. A la fecha contamos con más de un 60% de cumplimiento y hemos dejado a disposición de la comunidad un espacio en línea donde se pueden ir consultando cuáles fueron los compromisos asumidos, los avances y las versiones publicadas.",
-  "imagen": "imagen_1.jpg",
+  "imagen": "Olavarría_1.jpg",
    "web": "https://gobiernoabierto.olavarria.gov.ar/plan-de-apertura-de-datos/",
    "fecha": "12/06/2018"
  },
