@@ -47,7 +47,7 @@
    "titulo": "Portal de Datos Abiertos basado en standards de OKFN",
    "bajada": "Actualmente hay en el portal de Datos Abiertos 153 data sets disponibles.",
    "texto": "Avance de datos abiertos en todas las áreas: <br> <br> En el 2018 avanzamos en ampliar los data sets disponibles y llegamos a los 139 data sets en ese año y sumamos otras secretarías, nos guiamos en una guia internacional en Datos Abiertos llamada OKFN (Open Knowledge Foundation) que marca que áreas son prioritarias para la Transparencia, tales como Obras, Presupuesto, Ambiente, Transito, etc. Trabajamos también en conjunto con el Gobierno de la Ciudad quienes nos compartieron su know how y estandares para clasificar y subir la información.",
-   "imagen": "vicentelopez_4.jpg",
+   "imagen": "vicentelopez_1.jpg",
    "web": "http://vicentelopez.opendata.junar.com/home",
    "fecha": "01/09/2018"
  },
@@ -60,7 +60,7 @@
    "titulo": "VL Obras",
    "bajada": "Lanzamiento de VL Obras con 260 obras y toda la información disponible, en Open Data Day: ",
    "texto": "Este año en el Dia Internacional de Datos Abiertos - Open Data Day- en Quinta Trabucco el 2/3 junto a la ONG Conocimiento Abierto presentamos un nuevo producto tecnológico llamado VL OBRAS que son visualizaciones tomadas de un nuevo data set con toda la información de las obras de nuestro Municipio sobre una plataforma compartida por el Gobierno de la Ciudad.",
-   "imagen": "vicentelopez_4.jpg",
+   "imagen": "vicentelopez_2.jpg",
    "web": "https://obras.vicentelopez.gov.ar/home.html",
   "fecha" : "2/3/2019"
  },
@@ -73,7 +73,7 @@
    "titulo": "Municipio Abierto",
    "bajada": "Proyectos elaborados y en desarrollo basados en evidencia - datos con cooperación internacional y nacional bajo el eje de Gobierno Abierto.",
   "texto": "Cooperación Internacional:<br><br>En el 2017 VL fue seleccionado por el Gobierno inglés para que desarrollemos todo un plan de Gobierno Abierto y la apertura de una landing de datos Abiertos. Este proyecto se desarrolló todo ese año y los avances y resultados fueron no solo seleccionar y mejorar la información y data sets con  el eje en la información relacionada a las necesidades del vecino sino también información de la Red de Espacios Culturales (con todas las propuestas para el vecino) e Información Social resultados del censo que trae la información de los barrios mas vulnerables sobre los ejes: Educación, características de la población y su distribución.<br><br>Ese proyecto a su vez se lo tomó de ejemplo para que otros Municipios se inicien en esta temática y Jorge como 'Embajador' de comunicar esta iniciativa a sus pares y se creó un Manual de Municipio Abierto (digital e impreso) para que otros Gobiernos Locales puedan desarrollar sus políticas con ejemplos concretos de otros Municipios y países. <br><br> Manual: <a href='https://datosgobierno.vicentelopez.gov.ar/docs/VicenteLopez-ManualDatosAbiertos.pdf' target='_blank'>https://datosgobierno.vicentelopez.gov.ar/docs/VicenteLopez-ManualDatosAbiertos.pdf</a>",
-  "imagen": "vicentelopez_4.jpg",
+  "imagen": "vicentelopez_3.jpg",
    "web": "http://datosgobierno.vicentelopez.gov.ar/",
   "fecha": "2017"
  },
@@ -102,5 +102,57 @@
    "imagen": "vicentelopez_5.jpg",
    "web": "https://www.vicentelopez.gov.ar/atencionalvecino/",
   "fecha": "01/05/2017"
+ },
+ {
+   "id": 9,
+   "municipio": "Bahía Blanca",
+   "tema": "Datos Abiertos",
+   "tipo": "Datos Abiertos",
+   "area": "Secretaría de Modernización y Calidad de Gestión y Dirección General de Áreas Públicas del Municipio de Bahía Blanca.",
+   "titulo": "Censo de Arbolado",
+   "bajada": "Se diseñó una Plataforma que agrupa y muestra datos sobre distintos ejemplares arbóreos existentes con el fin de diseñar políticas públicas tendientes a mejorar la calidad de vida ambiental de la ciudad, mejorar el arbolado urbano y realizar el censo de arbolado. Además, se creó una App para que todos los vecinos participen: permite relevar datos georreferenciados e imágenes de los árboles de la ciudad. Ello queda reflejado en un mapa que arroja una visualización según la especie o ubicación del árbol.",
+  "texto": "El Municipio cuenta con una Dirección General de Áreas Públicas que trabaja para implementar políticas para mejorar de la calidad de vida ambiental y embellecer el paisaje urbano de la ciudad. Para el diseño y el impulso de sus actividades, dicha área municipal se vio con la necesidad de contar con recursos y herramientas simples y ágiles, quen permitan recolectar datos para la toma de decisiones. Así, a partir del trabajo de Secretaría de Modernización y Calidad de Gestión, se diseñó una plataforma de uso interno que guarda toda la información y datos útiles sobre arbolado urbano. En la plataforma se distinguen diferentes bases de datos que surgen a partir de los relevamientos como, por ejemplo: especies, altura, ubicación, fotos, estado en que se encuentran, etc.<br><br> Además, y con el propósito de promover la participación ciudadana y la concientización sobre la importancia del arbolado, desde la Secretaría de Modernización y Calidad de Gestión se diseñó una aplicación que permite a los vecinos colaborar con el censo de ejemplares arbóreos. Esta aplicación se encuentra disponible para descargar desde Play Store y cuenta con un formulario con datos pre-cargados por lo cual su utilización se hace sencilla y ágil. Una vez que se completa el formulario con la información solicitada respecto de la especie de árbol, se puede adjuntar una foto del mismo. Luego, los datos cargados en el formulario se sincronizan e impactan en la plataforma de uso interno del municipio. Aquí, empleados de la Dirección General de Áreas Públicos validan esos datos aportados por los vecinos, y verifican su exactitud. Una vez realizado este paso, quedan guardados en la plataforma de uso interno. <br><br> Finalmente, para reflejar las actividades, se diseñó un mapa georeferenciado que permite mostrar y visualizar la cantidad de especies de árboles según su especie y según su ubicación, al que es posible acceder desde la web del municipio.",
+   "imagen": "bahiablanca_1.jpg",
+   "web": "http://www.bahia.gob.ar/mapa-de-arbolado/",
+  "fecha": "01/11/2017"
+ },
+ {
+   "id": 10,
+   "municipio": "Bahía Blanca",
+   "tema": "Transparencia Activa",
+   "tipo": "Obras de Infraestructura",
+   "area": "Secretaría de Modernización y Calidad de Gestión.",
+   "titulo": "Plataforma de Obras",
+   "bajada": "Dentro de las iniciativas de gobierno abierto, se está trabajando en una Plataforma de Obras que agrupe los datos de obras iniciadas, ejecutadas y proyectadas durante los últimos años. Busca mostrar información y datos de interés a la ciudadanía, reforzar la transparencia, y brindar herramientas para que los vecinos puedan evaluar los avances de las obras, el destino y el uso de los fondos públicos. Además, es un canal de comunicación de las obras realizadas por el municipio.",
+   "texto": "La Secretaría de Modernización avanzó en la iniciativa de publicar y mostrar datos sobre las obras realizadas en el partido de Bahía Blanca, impulsada desde los intercambios de ideas y experiencias con el gobierno de la Ciudad de Buenos Aires. Esta última, ya avanzada en la publicación de un observatorio de obras digital, brindó asesoramiento para que el Municipio de Bahía Blanca pueda replicarlo a nivel local.<br><br>Con recursos humanos propios del municipio (programadores, desarrolladores y diseñadores) se adaptó el software y el diseño visual al partido de Bahía Blanca y se crearon las bases de datos necesarias para guardar la información. Las distintas obras realizadas y aún en ejecución se fueron cargando en un sistema creado al efecto, que discrimina los siguientes datos: identificación de la obra, localización, número de expediente, fotos, delegación a la que pertenece, costo, empresa que realiza la obra y fotos de la misma.  Una vez cargada y guardada la información, se replica automáticamente en un plano digital visible desde la web municipal, que busca ser interactivo y amigable para que los ciudadanos puedan acceder a la información de manera sencilla.<br><br>El lanzamiento de esta herramienta permitirá a los vecinos poder evaluar la gestión, monitorear el avance de obras, obtener datos sobre los costos y las inversiones y conocer las mejoras que se realizan en su localidad.<br><br>La importancia de que esta información se encuentre disponible y abierta a la ciudadanía impactará no solo en un avance sobre la transparencia a nivel municipal sino también aumentará la participación de los vecinos al dotarlos de herramientas y de información que logren mejorar el debate y generar nuevas propuestas por parte de la comunidad.",
+  "imagen": "bahiablanca_2.jpg",
+   "web": "http://obras.bahia.gob.ar/#/home",
+  "fecha": "Próximamente"
+ },
+ {
+   "id": 11,
+   "municipio": "Bahía Blanca",
+   "tema": "Transparencia Activa",
+   "tipo": "Compras y Licitaciones",
+   "area": "Secretaría de Modernización y Calidad de Gestión.",
+   "titulo": "Bahía Compra",
+   "bajada": "El portal Bahía Compra se trata de un sitio web que brinda publicidad de las compras que realiza la administración municipal y de las futuras licitaciones públicas o privada y llamados a concursos de precios. También se puede consultar los proveedores, las órdenes de compra, etc. El eje principal de su implementación fue fortalecer la transparencia de la gestión y, además, promover una convocatoria amplia y abierta a quienes estén interesados en ser proveedores del municipio. ",
+   "texto": "Con el objetivo de promover un gobierno local más democrático, transparente y eficaz, la Secretaría de Modernización y Calidad de Gestión implementó un portal, “Bahía Compra” que permite dar publicidad a las compras que realiza el municipio, distinguiendo por proveedor, suministro, estado de facturas y área municipal que realiza la compra. Además, también permite dar publicidad a las futuras compras que realizará la administración y visualizar los pliegos de las licitaciones.  Esta publicidad se complementa con un sistema de alertas por mail, que permite que los proveedores seleccionen los rubros y actividades de su interés y recibir un correo para conocer las futuras compras a realizarse desde el municipio.<br><br>El portal es innovador en cuento al tipo y la calidad de información que se brinda desde el sitio web oficial del municipio, favoreciendo la transparencia en la gestión. Asimismo, hace eficiente el uso de recursos municipales, ya que la difusión de las futuras compras municipales permitió que nuevos interesados se incorporen al registro de proveedores, dando como resultado una reducción de costo de las compras y contrataciones al aumentar los oferentes y la competencia.",
+  "imagen": "bahiablanca_3.jpg",
+   "web": "http://www.bahia.gob.ar/compra/",
+  "fecha": "01/08/2017"
+ },
+ {
+   "id": 12,
+   "municipio": "Bahía Blanca",
+   "tema": "Acceso a la Información Pública",
+   "tipo": "Proceso de Implementación de AIP",
+   "area": "Secretaría de Modernización y Calidad de Gestión.",
+   "titulo": "Plataforma de Acceso a la Información Pública",
+   "bajada": "La plataforma de Acceso a la Información Pública se trata de un sistema de gestión de solicitudes de información que permite derivar los pedidos a las áreas municipales con competencia para responder. Impacta automáticamente en la web ya que publica y actualiza el registro de solicitudes y respuestas. Además, brinda trazabilidad ya que permite conocer el estado de la solicitud.",
+  "texto": "El Municipio, desde la Secretaría de Modernización y Calidad de Gestión, buscó simplificar y ordenar las demandas de la ciudadanía en materia de Acceso a la Información Pública. En lo que hace a la transparencia pasiva, el derecho del vecino a solicitar y recibir información que no se encuentra publicada fue estructurado bajo un apartado en la web municipal y una plataforma de gestión interna. <br><br> Desde la web, el interesado puede realizar un pedido de información al completar un formulario que, una vez enviado, arroja un código le permitirá realizar un seguimiento y conocer el estado en que se encuentra su solicitud. El formulario ingresa a la plataforma de gestión interna donde un usuario administrador evalúa el tipo de información solicitada para luego remitirla a las áreas que tienen competencia para poder dar respuesta. La solicitud puede ser remitida a múltiples áreas municipales, cada una responderá de manera independiente y su respuesta se verá reflejada automáticamente en la web del municipio. De esta manera, se crea un registro de solicitudes, para que los ciudadanos puedan consultar y realizar búsquedas por fechas y palabras claves los pedidos que se han generado. <br><br>Tanto la plataforma de gestión como la web de Acceso a la Información fue creada y diseñada por personal municipal con el objeto de facilitar la gestión interna, ya que su utilización evita la creación de notas y el traslado de papeles entre las distintas dependencias municipales y los reemplaza por mensajes internos desde la plataforma. También agiliza las solicitudes por parte de los vecinos, ya que, si bien los canales para pedir la información son múltiples, la implementación de un formulario desde la web simplifica su realización.",
+  "imagen": "bahiablanca_4.jpg",
+   "web": "https://www.bahia.gob.ar/2017/03/09/plataforma-de-acceso-a-la-informacion-publica/",
+  "fecha": "01/07/2017"
  }
 ]
