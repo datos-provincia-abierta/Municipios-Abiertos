@@ -45,8 +45,8 @@
    "tipo": "Datos Abiertos",
    "area": "Secretaria de Modernizacion",
    "titulo": "Portal de Datos Abiertos basado en standards de OKFN",
-   "bajada": "Actualmente hay en el portal de Datos Abiertos 153 data sets disponibles.",
-   "texto": "Avance de datos abiertos en todas las áreas: <br> <br> En el 2018 avanzamos en ampliar los data sets disponibles y llegamos a los 139 data sets en ese año y sumamos otras secretarías, nos guiamos en una guia internacional en Datos Abiertos llamada OKFN (Open Knowledge Foundation) que marca que áreas son prioritarias para la Transparencia, tales como Obras, Presupuesto, Ambiente, Transito, etc. Trabajamos también en conjunto con el Gobierno de la Ciudad quienes nos compartieron su know how y estandares para clasificar y subir la información.",
+   "bajada": "Actualmente hay en el portal de Datos Abiertos 153 <i>datasets</i> disponibles.",
+   "texto": "Avance de datos abiertos en todas las áreas: <br> <br> Durante 2018, avanzamos en la ampliación de los <i>datasets</i> disponibles en la web, y llegamos a 139 conjuntos de datos con la participación de nuevas secretarías.<br><br>En nuestra búsqueda de una mayor transparencia municipal, recurrimos a la Guía Internacional de Datos Abiertos de la Fundación Conocimiento Abierto (<i>Open Knowledge Foundation</i>) para conocer las áreas prioritarias en la apertura de datos, tales como Obras, Presupuesto, Ambiente, Tránsito. Asimismo, trabajamos en conjunto con el equipo del Gobierno de la Ciudad de Buenos Aires, quien nos compartieron su <i>know-how</i> y los estándares para clasificar y subir la información.",
    "imagen": "vicentelopez_1.jpg",
    "web": "http://vicentelopez.opendata.junar.com/home",
    "fecha": "01/09/2018"
