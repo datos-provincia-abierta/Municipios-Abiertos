@@ -154,5 +154,17 @@
   "imagen": "bahiablanca_4.jpg",
    "web": "https://www.bahia.gob.ar/2017/03/09/plataforma-de-acceso-a-la-informacion-publica/",
   "fecha": "01/07/2017"
- }
+ },
+    "id": 13,
+   "municipio": "Bahía Blanca",
+   "tema": "Transparencia Activa",
+   "tipo": "Guía de Trámites",
+   "area": "Secretaría de Modernización y Calidad de Gestión y Dirección General de Rentas.",
+   "titulo": "Rentas Bahía",
+   "bajada": "Se diseñó y se creó una plataforma de gestión tributaria que permite a los vecinos contar con información respecto del vencimiento de tributos municipales, conocer el estado de sus deudas y administrar sus boletas a pagar. La información disponible y la digitalización de ciertos trámites tributarios son uno de los resultados de una gestión transparente, que responde a la demanda ciudadana de conocer la relación tributaria que tiene con la municipalidad. Además, permite al vecino recibir la tasa por mail y pagar sus tributos con VEP",
+  "texto": "Una de las demandas de la ciudadanía giraba en torno al acceso a información relacionada a trámites tributarios. Los vecinos no conocían qué debían pagar, las fechas de vencimiento, la nueva generación de boletas ante el vencimiento, entre otras cuestiones que, anteriormente, para obtener dicha información requerían de una solicitud presencial del contribuyente. <br><br>Por eso se diseñó una plataforma de gestión tributaria, que agrupa información actualizada y permita realizar trámites sencillos de manera <i>on-line</i>. Este sistema cuenta con diferentes funcionalidades como: consulta de cuenta corriente de las tasas, derechos y contribuciones con la información actualizada de las fechas de pago y las deudas; emisión de recibos de cuotas actuales o vencidas (tanto de tasas y contribuciones como aquellas infracciones del Tribunal de Faltas); posibilidad de pago adelantado para inmuebles; gestionar declaraciones juradas; generar volantes electrónicos de pago; entre otros. Además, permite la suscripción a tasa por mail, como una opción para los contribuyentes para organizar su recepción. También fue diseñada una aplicación para facilitar el acceso desde un Smartphone. <br><br>Esta plataforma de gestión implicó una mejora no solo en la atención del municipio a sus contribuyentes, sino que también configuró una apertura de la información que se encuentra en manos del Estado local, mejorando el ambiente de confianza entre el gobierno y la sociedad.",
+  "imagen": "BahíaBlanca_5.jpg",
+   "web": "http://www.bahia.gob.ar/rentas/",
+  "fecha": "01/03/2018"
+}
 ]
