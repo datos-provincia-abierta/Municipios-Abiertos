@@ -196,8 +196,8 @@
 { 
     "id": 16,
    "municipio": "Bahía Blanca",
-   "tema": "Participacion Ciudadana",
-   "tipo": "Participación Ciudadana",
+   "tema": "Participación Ciudadana",
+   "tipo": "Participacion Ciudadana",
    "area": "Secretaría de Modernización y Calidad de Gestión.",
    "titulo": "Comunidades de Práctica",
    "bajada": "El Programa de Comunidades de Práctica propuso realizar diferentes encuentros con referentes de otros municipios, para compartir iniciativas y políticas públicas implementadas y evaluar su desarrollo. A partir de estos encuentros, resulta más fácil replicar herramientas o proyectos implementados que den respuesta a las demandas de la ciudadanía y acerquen a una mejor calidad de servicio.",
@@ -209,8 +209,8 @@
 { 
     "id": 16,
    "municipio": "Bahía Blanca",
-   "tema": "Participacion Ciudadana",
-   "tipo": "Participación Ciudadana",
+   "tema": "Participación Ciudadana",
+   "tipo": "Participacion Ciudadana",
    "area": "Secretaría de Modernización y Calidad de Gestión.",
    "titulo": "Comunidades de Práctica",
    "bajada": "El Programa de Comunidades de Práctica propuso realizar diferentes encuentros con referentes de otros municipios, para compartir iniciativas y políticas públicas implementadas y evaluar su desarrollo. A partir de estos encuentros, resulta más fácil replicar herramientas o proyectos implementados que den respuesta a las demandas de la ciudadanía y acerquen a una mejor calidad de servicio.",
@@ -218,4 +218,18 @@
   "imagen": "Bahiablanca_8.jpg",
    "web": "http://prensa.bahia.gob.ar/2018/09/07/el-municipio-presento-un-programa-de-intercambio-de-experiencias-de-gestion/", 
   "fecha": "Sin detalle" 
-]
+},
+{ 
+    "id": 17,
+   "municipio": "Bahía Blanca",
+   "tema": "Participación Ciudadana",
+   "tipo": "Participación Ciudadana",
+   "area": "Secretaría de Modernización y Calidad de Gestión.",
+   "titulo": "Concurso de Ideas",
+   "bajada": "El concurso para la presentación de Ideas-Proyecto para el re-diseño del espacio verde denominado ‘Plaza de la Reforma Universitaria’. La iniciativa buscó rememorar y reflexionar junto a instituciones universitarias y su comunidad académica y estudiantil el significado de la Reforma Universitaria de 1918 y, también, mejorar los espacios públicos de uso comunitarios mediante la participación ciudadana y la colaboración de los vecinos.",
+  "texto": "El concurso de Ideas-Proyecto para proponer mejoras en el espacio verde Plaza de la Reforma Universitaria contó con varias etapas. <br><br>Inicialmente, se llevaron a cabo reuniones entre el Municipio y las Universidades para acordar los puntos principales del concurso.  Luego se publicó la convocatoria a través del sitio web y por intermedio de las universidades, para alcanzar a la mayor cantidad de posibles interesados en participar. Los proyectos debían estar inspirados en alguno de los principios de la Reforma Universitaria. <br><br>Durante un plazo se recibieron los proyectos de los grupos de estudiantes y luego, durante un período se coordinaron encuentros con distintas áreas y profesionales municipales y con los vecinos que hacen uso de ese espacio verde. De este modo, en los proyectos de los estudiantes quedaron integrados por distintos aportes. <br><br>Luego de una pre-selección realizada por un jurado integrado por profesionales de las universidades, representantes políticos y funcionarios y empleados municipales, se eligieron dos proyectos principales. <br><br>Finalmente, los proyectos serán puestos a votación en una plataforma que permite a toda la comunidad realizar la votación por aquél que encuentren mejor para el espacio público. <br><br>Esta iniciativa logra tomar decisiones de la administración de manera colaborativa y participativa, ya que cuenta con los aportes de estudiantes, universidades y vecinos en general que se involucran en la mejora de los espacios verdes de la ciudad.",
+  "imagen": "",
+   "web": "http://participa.bahia.gob.ar/", 
+  "fecha": "Sin detalle" 
+} 
+ ]
