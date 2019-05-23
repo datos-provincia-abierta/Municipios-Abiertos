@@ -192,5 +192,18 @@
   "texto": "Si bien la Municipalidad de Bahía Blanca tuvo una historia significativa en lo que hace a la transparencia y publicación de datos, en el último tiempo el gobierno municipal buscó profundizar y ampliar los datos disponibles para todos los ciudadanos de manera libre. <br><br>Para ello, se firmaron distintos convenios de colaboración con instituciones como por ejemplos las empresas SAPEM Ambiental y Transporte, para coordinar tareas en materia de publicidad de datos. <br><br>Además, junto con los trabajos de re-diseño de la web municipal, se trabajó en el apartado del <b>Portal de Transparencia</b> para lograr una visualización amigable, accesible e interactiva de la información disponible. Cuenta con mapas y gráficos que permiten una mejor interpretación de los datos. Además, existe un catálogo de datos abiertos, en formato reutilizable que incluye información sobre presupuesto, gastos, compras, proveedores, declaraciones juradas, entre otras cosas. <br><br>El <b>Portal de Transparencia</b> tiene como objeto brindar información actualizada, por eso varios de los datos se muestran en línea, otros tienen un proceso descarga, verificación y validación.",
   "imagen": "bahiablanca_7.jpg",
    "web": "http://www.bahia.gob.ar/transparencia/"
+},
+{ 
+    "id": 16,
+   "municipio": "Bahía Blanca",
+   "tema": "Participación Ciudadana",
+   "tipo": "Participación Ciudadana",
+   "area": "Secretaría de Modernización y Calidad de Gestión.",
+   "titulo": "Comunidades de Práctica",
+   "bajada": "El Programa de Comunidades de Práctica propuso realizar diferentes encuentros con referentes de otros municipios, para compartir iniciativas y políticas públicas implementadas y evaluar su desarrollo. A partir de estos encuentros, resulta más fácil replicar herramientas o proyectos implementados que den respuesta a las demandas de la ciudadanía y acerquen a una mejor calidad de servicio.",
+  "texto": "Desde la Secretaría de Modernización y Calidad de Gestión del Municipio se trabaja en la implementación de políticas públicas tendientes a aportar soluciones eficaces a las demandas ciudadanas, y alcanzar una administración moderna y de calidad en cuanto a los servicios. <br><br>Para lograr lo propuesto, se creó el Programa de Comunidades de Práctica que busca coordinar encuentros y generar ámbitos de participación entre referentes de distintos municipios, y actores sociales específicos para abordar determinados temas. <br><br>Esta iniciativa fue puesta en marcha, por ejemplo, en un encuentro que giró en torno a los exámenes de conducir.  Participaron cerca de nueve municipios de la zona, y asistieron los referentes de áreas de tránsito y empleados municipales tanto administrativos como inspectores y quienes ocupan puestos en los que se realiza parte del trámite para obtener la licencia. <br><br>El intercambio de ideas, preocupaciones, experiencias y conocimientos permite encontrar soluciones innovadoras a problemas comunes. Además, la participación de los empleados que intervienen en el trámite logra abordar de manera integral todos los aspectos importantes que hagan al trámite, y trata de resolver cuestiones de quienes gestionan de manera directa los trámites con los vecinos.",
+  "imagen": "Bahiablanca_8.jpg",
+   "web": "http://prensa.bahia.gob.ar/2018/09/07/el-municipio-presento-un-programa-de-intercambio-de-experiencias-de-gestion/", 
+  "fecha": "Sin detalle" 
 }
 ]
