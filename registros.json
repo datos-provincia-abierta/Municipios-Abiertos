@@ -231,5 +231,32 @@
   "imagen": "ECA Cultura.JPG",
    "web": "http://ciudadabierta.coronelpringles.gov.ar/participacionciudadana/participacionciudadana.php", 
   "fecha": "04/10/2017" 
+},
+{ 
+    "id": 19,
+   "municipio": "Coronel Pringles",
+   "tema": "Transparencia Activa",
+   "tipo": "Transparencia",
+    "tipo": "Datos Abiertos",
+   "area": "Dirección de Ciudad Abierta.",
+   "titulo": "Gobierno Abierto",
+   "bajada": "Es una visión, una manera de pensar la gestión pública como lo que es: pública. Una política. Pensada para y desde el vecino, buscando que sepa en qué se gasta el recurso municipal, - formado por su aporte - , quiénes son las personas en el gobierno y cómo se trabaja para nuestra ciudad. <br><br>Ciudad Abierta tiene como objetivo la transparencia y la participación ciudadana para involucrar a todos los pringlenses en las cuestiones de la gestión pública.",
+  "texto": "Una nueva actitud que se debe tomar desde el Municipio para modernizar el Estado es la de transparentar la gestión para que cada ciudadano sepa qué se hace y cómo con los recursos que aporta, mediante la apertura de los datos de los presupuestos, ejecuciones, licitaciones, sueldos de los funcionarios, cantidad de empleados, proveedores, entre otros datos que hacen a la administración, pero también la publicación de estadísticas de salud, medio ambiente, obras públicas, etc. <br><br>La participación ciudadana tiene como objetivo convocar a los vecinos a ser parte de los proyectos de una gestión, para fortalecer su ejecución y garantizar su sustentabilidad. <br><br>La democracia no sólo debe requerir de los ciudadanos al momento de las elecciones. Debe hacerlos partícipes de la gestión, brindarle herramientas para su desarrollo y formación. El interés por los temas que afecten a su barrio y a la ciudad, harán que estén atentos a los problemas, pienses posibles soluciones y realicen petitorios ante las autoridades de los tres poderes. <br><br>Las audiencias públicas, las reuniones barriales, las recorridas de los funcionarios por distintos lugares de la ciudad, serán actividades importantes para acercar a los miembros del Poder Ejecutivo a los vecinos. Pero además, las nuevas tecnologías están preparadas para realizar un ida y vuelta con la gente que permite que una idea original nazca en cualquier persona y pueda ser tenida en cuenta para llevarla a cabo. <br><br>De una sociedad formada y participativa surgirán dirigentes de distintas instituciones que se encargarán de llevarlas adelante para seguir construyendo un Pringles mejor.",
+  "imagen": "Gobierno Abierto.jpg",
+   "web": "http://ciudadabierta.coronelpringles.gov.ar", 
+  "fecha": "02/02/2017" 
+},
+{ 
+    "id": 20,
+   "municipio": "Coronel Pringles",
+   "tema": "Acceso a la Información Pública",
+   "tipo": "Acceso a la Información Pública",
+   "area": "Dirección de Ciudad Abierta.",
+   "titulo": "Acceso a la Información Pública",
+   "bajada": "Plataforma para que cada ciudadano pueda solicitar información pública municipal de manera accesible y gratuita.",
+   "texto": "Coronel Pringles ya contaba con una norma que garantizaba el Acceso a la Información desde el año 2010, siendo uno de los pocos municipios del sudoeste bonaerense que legisló sobre el tema, pero los avances que ha habido a nivel nacional y mundial en este concepto, hizo necesario actualizar la ordenanza. <br><br>A partir del 10 de septiembre de 2018, cuando la norma entró en vigencia, la información solicitada no sólo debe ser respondida al solicitante, sino que debe ser publicada en la página de Ciudad Abierta (ciudadabierta.coronelpringles.gov.ar) para su conocimiento por parte de toda la sociedad. Esta medida, tiende a transformar la Transparencia Pasiva en Activa, generándole al Estado Municipal la responsabilidad de dar a conocer datos públicos a través del compromiso ciudadano. <br><br>Tal como lo expresa el Artículo 3, Toda persona física o jurídica, de conformidad con el principio democrático de publicidad de los actos de gobierno y atendiendo al carácter público que ostenta la información, tienen derecho a solicitar y recibir toda información pública. <br><br>Así, los pringlenses siguen contando con una herramienta fundamental para ejercer el control ciudadano sobre la gestión municipal y el uso de sus recursos, como también es una oportunidad para el gobierno local de aumentar la transparencia satisfaciendo la demanda de los solicitantes.",
+  "imagen": "Acceso a la Información Pública.jpg",
+   "web": "http://ciudadabierta.coronelpringles.gov.ar/accesoalainfo/pedi_info.php", 
+  "fecha": "11/09/2018" 
 }
  ]
