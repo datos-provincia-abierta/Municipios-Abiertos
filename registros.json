@@ -218,5 +218,18 @@
   "imagen": "",
    "web": "http://participa.bahia.gob.ar/", 
   "fecha": "Sin detalle" 
-} 
+},
+{ 
+    "id": 18,
+   "municipio": "Coronel Pringles",
+   "tema": "Participación Ciudadana",
+   "tipo": "Participación Ciudadana",
+   "area": "Dirección de Ciudad Abierta / Dirección de Cultura / Oficina de Empleo.",
+   "titulo": "ECA Cultura",
+   "bajada": "ECA Cultura es una actividad destinada a los adolescentes, con el propósito de analizar y debatir sobre las problemáticas sociales que más les preocupan y proponer actividades culturales para abordarlas.",
+  "texto": "Con el objetivo de crear un ambiente propicio a que los jóvenes puedan expresar sus ideas y realidades, distintas áreas municipales decidieron crear ECA (Espacio de Construcción Adolescente) y relacionarlo directamente a una asignatura. En esta primera experiencia se llevó a cabo ECA Cultura con alumnos delegados de los cursos de 4º, 5º y 6º año de escuelas secundarias. <br><br>La implementación de políticas públicas relacionadas a los adolescentes y jóvenes de nuestra ciudad deberá contar con mirada de ellos y sus propuestas. De poco serviría que esas ideas surjan de la observación de los adultos basada en la imagen que tienen sobre la juventud, que pocas veces es compartida entre ambas generaciones.<br><br>La participación ciudadana, en cualquier espacio, nutre de experiencias y enriquece cualquier debate y proyecto que desee implementarse, además de garantizar su sustentabilidad.<br><br>En el taller se propuso que los adolescentes analicen y debatan sobre las problemáticas sociales que más les preocupan, los actuales formatos y soportes de comunicación y la utilización y generación de espacios artísticos y culturales. Todo ello con el fin de poder obtener una idea más clara sobre los intereses, preocupaciones e ideas que tienen para considerar sus propuestas para el sector cultural de la localidad.",
+  "imagen": "ECA Cultura.JPG",
+   "web": "http://ciudadabierta.coronelpringles.gov.ar/participacionciudadana/participacionciudadana.php", 
+  "fecha": "04/10/2017" 
+}
  ]
